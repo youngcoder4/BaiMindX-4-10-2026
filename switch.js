@@ -1,4 +1,3 @@
-// Câu lệnh switch
 let ngay = 2;
 
 switch (ngay) {
