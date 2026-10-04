@@ -1,4 +1,3 @@
-// Câu lệnh if else if
 let diem = 85;
 
 if (diem >= 90) {
